@@ -2,17 +2,21 @@
 
 A Shiritori game for 2 players to play together
 
+## Live Link 
+[https://multiplayer-shiritori-game.vercel.app/](https://multiplayer-shiritori-game.vercel.app/)
+
 ## Demo
+![image](https://github.com/user-attachments/assets/42f36ef4-589f-4f15-a1c7-4e10952c6cba)
 
-//demo
 
-# Used Technologies
+
+## Used Technologies
 
 -   Next JS 15
 -   Tailwind CSS
 -   [Dictionary API](https://dictionaryapi.dev/)
 
-# Gameplay instructions
+## Gameplay instructions
 
 -   play as player 1 or 2
 -   write a word of at least 4 characters
